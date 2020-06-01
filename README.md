@@ -1,4 +1,4 @@
-[![Analytics](https://gabeacon.irvinlim.com/UA-168064518-1/onboarding-laboratoria/readme)](https://github.com/EL-BID/Onboarding-Code-squads-Laboratoria)
+[![Analytics](https://gabeacon.irvinlim.com/UA-168064518-1/onboarding-laboratoria/readme&useReferer)](https://github.com/EL-BID/Onboarding-Code-squads-Laboratoria)
 # Onboarding: Piloto de colaboración en publicación de herramientas con Laboratoria 
 
  
